@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { StatisticsContainer, Statistic } from './App.styled';
+import { StatisticsContainer, Statistic } from '../App.styled';
 
 const Statistics = ({ good, neutral, bad, total, positivePercentage }) => (
   <StatisticsContainer>

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { SectionContainer, Title } from './App.styled';
+import { SectionContainer, Title } from '../App.styled';
 
 const Section = ({ title, children }) => (
   <SectionContainer>

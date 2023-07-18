@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { NotificationContainer } from './App.styled';
+import { NotificationContainer } from '../App.styled';
 
 const Notification = ({ message }) => (
   <NotificationContainer>{message}</NotificationContainer>
